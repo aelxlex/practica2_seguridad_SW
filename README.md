@@ -10,5 +10,7 @@ En la carpeta "ejemplo_prevencion_codigo" se encuentran dos archivos .php:
 en el archivo ***documentacion.md*** se encuentra toda la documentacion o teoria explicada de la practica
 
 ---
+***database.sql*** en este archivo esta la base de datos que se uso para la prueba
+---
 
 en este archivo ***README.md*** la explicacion del contenido de archivos y carpetas de este repositorio
